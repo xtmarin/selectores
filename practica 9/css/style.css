@@ -1,0 +1,54 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.entrenador {
+    background-color: #e0f7fa; /* Colores exa*/
+    background-image: url(../images/entrenando\ campeones.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+   
+    width: 100%;
+    min-height: 36vh;
+    border: 5px solid #0eb2db;
+    border-radius: 15px;
+}
+.entrenador h1 {
+    color: cornflowerblue;
+    
+}
+
+.gym {
+    background-color: #e0f7fa; /* Colores exa*/
+    background-image: url(../images/gym.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+    
+     width: 100%;
+    min-height: 36vh;
+    border: 5px solid #807408;
+    border-radius: 15px;
+    
+}
+.gym h1 {
+    color: blue;
+}
+.programacion {
+    background-color: #e0f7fa; /* Colores exa*/
+    background-image: url(..//images/programador.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+    
+     width: 100%;
+    min-height: 36vh;
+    border: 5px solid #170acf;
+    border-radius: 15px;
+}
+.programacion h1 {
+    color: blueviolet;
+}
+p {
+    color: #e0f7fa;
+}
+
